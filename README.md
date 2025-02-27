@@ -47,7 +47,7 @@ I’m a passionate developer who loves building things for the web and exploring
 
 - **Website**: [noahnap.com](https://noahnap.com)  
 - **Twitter**: []()  
-- **LinkedIn**: [Noah Nap](https://linkedin.com/in/noahnap  
+- **LinkedIn**: [Noah Nap](https://linkedin.com/in/noahnap)  
 
 ---
 
