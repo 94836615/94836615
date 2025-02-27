@@ -5,8 +5,8 @@
 
 # Hi there, I'm Noah 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=johndoe&color=brightgreen)](https://github.com/johndoe)
-[![GitHub followers](https://img.shields.io/github/followers/johndoe.svg?style=social&label=Follow)](https://github.com/johndoe?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=94836615&color=brightgreen)](https://github.com/johndoe)
+[![GitHub followers](https://img.shields.io/github/followers/94836615.svg?style=social&label=Follow)](https://github.com/johndoe?tab=followers)
 
 I’m a passionate developer who loves building things for the web and exploring new technologies. I specialize in **JavaScript**, **React**, and **Node.js**, but I'm always learning and growing!
 
@@ -29,8 +29,8 @@ I’m a passionate developer who loves building things for the web and exploring
 
 <!-- You can generate your own stats images using https://github.com/anuraghazra/github-readme-stats -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=94836615&show_icons=true&theme=radical" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=94836615&layout=compact&theme=radical" height="180px" />
 </div>
 
 ---
@@ -45,17 +45,17 @@ I’m a passionate developer who loves building things for the web and exploring
 
 ## 💬 Let's Connect
 
-- **Website**: [johndoe.dev](https://johndoe.dev)  
-- **Twitter**: [@john_doe](https://twitter.com/john_doe)  
-- **LinkedIn**: [John Doe](https://linkedin.com/in/johndoe)  
+- **Website**: [noahnap.com](https://noahnap.com)  
+- **Twitter**: []()  
+- **LinkedIn**: [Noah Nap](https://linkedin.com/in/noahnap  
 
 ---
 
 ## 🔗 Some Fun Repos to Check Out
 
-1. [**React Project Starter**](https://github.com/johndoe/react-project-starter) – A lightweight boilerplate for React apps.
-2. [**Node.js REST API**](https://github.com/johndoe/nodejs-rest-api) – An example project illustrating best practices for RESTful services.
-3. [**Portfolio Website**](https://github.com/johndoe/portfolio) – My personal portfolio built with Next.js.
+1. [**React Project Starter**](https://github.com/johndoe/react-project-starter) – A lightweight boilerplate for React apps. Will be adjusted soon < 
+2. [**Node.js REST API**](https://github.com/johndoe/nodejs-rest-api) – An example project illustrating best practices for RESTful services. Will be adjusted soon < 
+3. [**Portfolio Website**](https://github.com/johndoe/portfolio) – My personal portfolio built with Next.js. Will be adjusted soon < 
 
 ---
 
