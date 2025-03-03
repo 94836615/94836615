@@ -46,7 +46,7 @@ I’m a passionate developer who loves building things for the web and exploring
 ## 💬 Let's Connect
 
 - **Website**: [noahnap.com](https://noahnap.com)  
-- **LinkedIn**: [Noah Nap](https://linkedin.com/in/noahnap)  
+- **LinkedIn**: [Noah Nap](https://www.linkedin.com/in/noah-n-208897136/)  
 
 ---
 
