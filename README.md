@@ -19,6 +19,8 @@ I’m a passionate developer who loves building things for the web and exploring
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&color=181717)
 ![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visual-studio-code&color=007ACC)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 <!-- Feel free to add more badges for languages and tools you're proficient with.
      Reference: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
