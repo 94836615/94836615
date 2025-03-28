@@ -1,14 +1,9 @@
-<!-- 
-  Change "johndoe" to your actual GitHub username, 
-  and be sure to update all sections with your own info!
--->
-
 # Hi there, I'm Noah 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=94836615&color=brightgreen)](https://github.com/johndoe)
 [![GitHub followers](https://img.shields.io/github/followers/94836615.svg?style=social&label=Follow)](https://github.com/johndoe?tab=followers)
 
-I’m a passionate developer who loves building things for the web and exploring new technologies. I specialize in **JavaScript**, **React**, and **Node.js**, but I'm always learning and growing!
+I’m a passionate developer who loves building things for the web and exploring new technologies. I specialize in **Typescript**, **React**, and **Python** on as backend language, but I'm always learning and growing!
 
 ---
 
@@ -40,7 +35,7 @@ I’m a passionate developer who loves building things for the web and exploring
 ## 🌱 Currently Learning
 
 - **TypeScript** – Improving type safety in large applications.
-- **Next.js** – Building server-side rendered React apps.
+- **React Native** – Building mobile apps with React Native/Typescript.
 - **GraphQL** – For more flexible, efficient data fetching.
 
 ---
