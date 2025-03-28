@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=94836615&color=brightgreen)](https://github.com/johndoe)
 [![GitHub followers](https://img.shields.io/github/followers/94836615.svg?style=social&label=Follow)](https://github.com/johndoe?tab=followers)
 
-I’m a passionate developer who loves building things for the web and exploring new technologies. I specialize in **Typescript**, **React**, and **Python** on as backend language, but I'm always learning and growing!
+I’m a passionate developer who loves building things for the web and exploring new technologies. I specialize in **Typescript**, **React**, and **Python** as backend language, but I'm always learning and growing!
 
 ---
 
